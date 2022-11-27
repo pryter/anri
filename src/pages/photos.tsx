@@ -38,7 +38,7 @@ const Concept = () => {
   return (
     <div>
       <div className="mt-20 flex space-x-1">
-        <div className="flex w-full flex-wrap">
+        <div className="flex w-full flex-wrap justify-center">
           <ImageColumn basePath="/images/more/" size={12} />
           <ImageColumn basePath="/images/more2/" size={12} />
         </div>
