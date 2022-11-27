@@ -31,7 +31,7 @@ interface ImageColumnProps {
 const ImageColumn: FC<ImageColumnProps> = ({ basePath, size }) => {
   return (
     <div className="mt-10 space-y-8">
-      {[...Array(size)].map((v, i) => {
+      {[...Array(size)].map((_v, i) => {
         return (
           <div key={`pic-${basePath}-${i}`} className="relative">
             <Image

@@ -1,7 +1,7 @@
 const Concept = () => {
   return (
     <div className="mt-24 sm:mt-32">
-      <h1 className="text-4xl text-center">Backgrounds</h1>
+      <h1 className="text-center text-4xl">Backgrounds</h1>
       <p className="mt-20 mb-24 sm:mb-40">
         My father is from Songkhla, the southern part of Thailand and my mother
         is from Meguro, Tokyo. Being a half Thai-Japanese living in Bangkok, my

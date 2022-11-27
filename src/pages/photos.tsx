@@ -9,7 +9,7 @@ interface ImageColumnProps {
 const ImageColumn: FC<ImageColumnProps> = ({ basePath, size }) => {
   return (
     <>
-      {[...Array(size)].map((v, i) => {
+      {[...Array(size)].map((_v, i) => {
         return (
           <div key={`pic-${basePath}-${i}`} className="relative mr-2 mb-2">
             <Image
