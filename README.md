@@ -5,7 +5,6 @@
 Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://creativedesignsguru.com/demo/Nextjs-Boilerplate/).
 
 ### Features
-e
 Developer experience first:
 
 - ⚡ [Next.js](https://nextjs.org) for Static Site Generator
